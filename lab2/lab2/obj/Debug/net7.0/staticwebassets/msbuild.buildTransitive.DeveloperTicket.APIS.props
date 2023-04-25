@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DeveloperTicket.APIS.props" />
+</Project>

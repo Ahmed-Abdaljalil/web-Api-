@@ -1,0 +1,15 @@
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\bin\Debug\net7.0\DeveloperTicket.BL.deps.json
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\bin\Debug\net7.0\DeveloperTicket.BL.dll
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\bin\Debug\net7.0\DeveloperTicket.BL.pdb
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\bin\Debug\net7.0\DeveloperTicket.DAL.dll
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\bin\Debug\net7.0\DeveloperTicket.DAL.pdb
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\DeveloperTicket.BL.csproj.AssemblyReference.cache
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\DeveloperTicket.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\DeveloperTicket.BL.AssemblyInfoInputs.cache
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\DeveloperTicket.BL.AssemblyInfo.cs
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\DeveloperTicket.BL.csproj.CoreCompileInputs.cache
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\DeveloperTicket.BL.csproj.CopyComplete
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\DeveloperTicket.BL.dll
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\refint\DeveloperTicket.BL.dll
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\DeveloperTicket.BL.pdb
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.BL\obj\Debug\net7.0\ref\DeveloperTicket.BL.dll

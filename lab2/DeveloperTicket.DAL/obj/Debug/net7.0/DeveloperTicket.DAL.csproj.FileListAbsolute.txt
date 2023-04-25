@@ -1,0 +1,14 @@
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\bin\Debug\net7.0\DeveloperTicket.DAL.deps.json
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\bin\Debug\net7.0\DeveloperTicket.DAL.runtimeconfig.json
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\bin\Debug\net7.0\DeveloperTicket.DAL.dll
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\bin\Debug\net7.0\DeveloperTicket.DAL.pdb
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\DeveloperTicket.DAL.csproj.AssemblyReference.cache
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\DeveloperTicket.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\DeveloperTicket.DAL.AssemblyInfoInputs.cache
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\DeveloperTicket.DAL.AssemblyInfo.cs
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\DeveloperTicket.DAL.csproj.CoreCompileInputs.cache
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\DeveloperTicket.DAL.dll
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\refint\DeveloperTicket.DAL.dll
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\DeveloperTicket.DAL.pdb
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\DeveloperTicket.DAL.genruntimeconfig.cache
+D:\iti 9 mo\Web API\day 2\lab\lab2\DeveloperTicket.DAL\obj\Debug\net7.0\ref\DeveloperTicket.DAL.dll
